@@ -10,3 +10,27 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+*.java
+
+*.java
+
+*.java
+
+*.java
+
+icecapSDKForMultiProcessor/src/vm/HardwareObject.java
+
+icecapSDKForMultiProcessor/src/vm/Heap.java
+
+*.java
+
+*.java
+
+*.java
+
+*.java
+
+icecapSDKForMultiProcessor/src/vm/InterruptHandler.java
+
+icecapSDKForMultiProcessor/src/vm/Machine.java
